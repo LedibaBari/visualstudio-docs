@@ -26,6 +26,8 @@ With the **Class Designer** tool in Visual Studio, you can design, visualize, an
 
 > [!NOTE]
 > Class Designer is not available in .NET Core and .NET 5 and later projects.
+> Added by Monday
+
 
 ## About class diagrams
 
